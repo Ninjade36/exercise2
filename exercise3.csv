@@ -1,2 +1,0 @@
-model,Test score (Accuracy),Train score (Accuracy),Number of trainable parameters,Number of layers,Regularization methods,Number of epochs,Loss function,Optimizer,Embedding
-['ANN model'],"[0.5093473792076111, 0.8155477046966553]","[0.28900855779647827, 0.8516823649406433]",696937,6,['Dropout'],5,['binary_crossentropy'],['adam'],[]
